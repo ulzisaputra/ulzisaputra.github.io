@@ -1,0 +1,18 @@
+@font-face {
+  font-family: bookos;
+  src: url(../font/bookman-old-style/bookman_old_style.ttf);
+}
+
+@font-face {
+  font-family: clarendon;
+  src: url(../font/clarendon/CLARENDO.ttf);
+}
+
+@font-face {
+  font-family: segoeprint;
+  src: url(../font/segoe-print/segoepr.ttf);
+}
+
+* {
+  font-family: bookos;
+}
